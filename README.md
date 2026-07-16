@@ -40,12 +40,6 @@ Static quiz applications eventually run out of questions, and standard AI chatbo
 
 ---
 
-## 📱 Screenshots 
-
-*(Placeholder: Add 2-3 screenshots here showing the Quiz UI, the structured Explanation UI, and the Chat Fallback UI)*
-
----
-
 ## 💡 Future Enhancements
 *   Implement local caching of high-quality AI-generated questions back into the Room database to reduce future API calls.
 *   Add user-specific performance tracking to fine-tune the difficulty scaling in the API prompt based on historical accuracy.
